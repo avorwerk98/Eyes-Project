@@ -5,7 +5,7 @@
 <p>This assignment was to use basic JavaScript to enable the eyeballs to follow the cursor as the user moves it.</p>
    
 <h2>Link to Project</h2>
-<a href=""</a>
+<a href="https://github.com/avorwerk98/Eyes-Project.git"</a>
 
 
 
