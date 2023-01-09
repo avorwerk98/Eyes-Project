@@ -1,5 +1,5 @@
 <h1>Eye Movement Project</h1>
-<img src="./eye/screenshot.png">
+<img src=".screenshot.png">
 
 <h2>DESCRIPTION</h2>
 <p>This assignment was to use basic JavaScript to enable the eyeballs to follow the cursor as the user moves it.</p>
